@@ -1,0 +1,10 @@
+
+streamlit
+fastapi
+uvicorn
+sqlalchemy
+pandas
+pyttsx3
+speechrecognition
+chromadb
+pillow
