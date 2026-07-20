@@ -1,0 +1,1 @@
+def generate(prompt): return {'image':'placeholder.png'}

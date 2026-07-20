@@ -1,0 +1,1 @@
+def build_prompt(t): return f'Cinematic dream: {t}'

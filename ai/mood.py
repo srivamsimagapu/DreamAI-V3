@@ -1,0 +1,1 @@
+def mood(t): return 'Neutral'

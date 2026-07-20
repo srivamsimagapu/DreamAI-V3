@@ -1,0 +1,1 @@
+def extract(text): return []

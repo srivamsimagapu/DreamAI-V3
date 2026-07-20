@@ -1,0 +1,1 @@
+def create(images): return 'video.mp4'
